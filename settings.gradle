@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Students_Info_Manager"
